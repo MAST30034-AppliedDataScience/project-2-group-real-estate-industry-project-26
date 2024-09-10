@@ -1,64 +1,49 @@
-Shopping Centre,addressLocality
-"Collins Place,Collins Street",Melbourne
-"Emporium Melbourne,Bourke Street",Melbourne
-"Block Arcade,Collins Street",Melbourne
-"The District Docklands,Docklands",Docklands
-"Galleria,Elizabeth Street",Melbourne
-"Melbourne Central,Lonsdale Street",Melbourne
-"Melbourne GPO,Bourke Street",Melbourne
-"QV Village,Lonsdale Street",Melbourne
-"Royal Arcade,Bourke Street",Melbourne
-"St Collins Lane,Collins Street",Melbourne
-"Southbank Promenade,Southbank",Southbank
-"Kmart Centre,Bourke Street",Melbourne
-"Armada Dandenong Plaza,Dandenong",Dandenong
-"Bayside Shopping Centre,Frankston",Frankston
-"Box Hill Central,Box Hill",Box Hill
-"Broadmeadows Central,Broadmeadows",Broadmeadows
-"Caulfield Plaza Shopping Centre,Caulfield",Caulfield
-"Chadstone Shopping Centre,Malvern East",Malvern East
-"Chirnside Park Shopping Centre,Chirnside Park",Chirnside Park
-"DFO Essendon,Essendon Fields",Essendon Fields
-"DFO Moorabbin,Cheltenham",Cheltenham
-"DFO South Wharf,South Wharf",South Wharf
-"DFO Unihill,Bundoora",Bundoora
-"Eastland Shopping Centre,Ringwood",Ringwood
-"Essendon Fields Shopping Centre,Essendon Fields",Essendon Fields
-"Forest Hill Chase Shopping Centre,Forest Hill",Forest Hill
-"Greensborough Plaza,Greensborough",Greensborough
-"Highpoint Shopping Centre,Maribyrnong",Maribyrnong
-"Karingal Hub Shopping Centre,Frankston",Frankston
-"Malvern Central,Malvern",Malvern
-"Northcote Plaza,Northcote",Northcote
-"Northland Shopping Centre,Preston",Preston
-"Pacific Epping,Epping",Epping
-"Pacific Werribee,Werribee",Werribee
-"Pran Central,South Yarra",South Yarra
-"Stockland Highlands,Craigieburn",Craigieburn
-"Stockland Point Cook,Point Cook",Point Cook
-"Sunshine Marketplace,Sunshine",Sunshine
-"The Glen Shopping Centre,Glen Waverley",Glen Waverley
-"The Jam Factory,South Yarra",South Yarra
-"The Pines Shopping Centre,Doncaster East",Doncaster East
-"Tooronga Village,Glen Iris",Glen Iris
-"Victoria Gardens Shopping Centre,Richmond",Richmond
-"Watergardens Town Centre,Taylors Lakes",Taylors Lakes
-"Waverley Gardens Shopping Centre,Mulgrave",Mulgrave
-"Westfield Airport West,Airport West",Airport West
-"Westfield Doncaster,Doncaster",Doncaster
-"Westfield Fountain Gate,Narre Warren",Narre Warren
-"Westfield Knox,Wantirna South",Wantirna South
-"Westfield Plenty Valley,South Morang",South Morang
-"Westfield Southland,Cheltenham",Cheltenham
-"Uni Hill Factory Outlets,Bundoora",Bundoora
-"Market Square Shopping Centre,Geelong",Geelong
-"Waurn Ponds Shopping Centre,Waurn Ponds",Waurn Ponds
-Westfield Geelong,Geelong
-"Central Square,Ballarat",Ballarat
-"Gateway Plaza,Warrnambool",Warrnambool
-"Horsham Plaza,Horsham",Horsham
-"Mildura Central,Mildura",Mildura
-"Riverside Plaza,Kialla",Kialla
-"Stockland Wendouree,Wendouree(Ballarat)",Wendouree
-"Traralgon Centre Plaza,Traralgon",Traralgon
-"Wodonga Plaza,Wodonga",Wodonga
+addressLocality,shopping_cen_count
+Melbourne,10
+Docklands,1
+Southbank,1
+Dandenong,1
+Frankston,2
+Box Hill,1
+Broadmeadows,1
+Caulfield,1
+Malvern East,1
+Chirnside Park,1
+Essendon Fields,2
+Cheltenham,2
+South Wharf,1
+Bundoora,2
+Ringwood,1
+Forest Hill,1
+Greensborough,1
+Maribyrnong,1
+Malvern,1
+Northcote,1
+Preston,1
+Epping,1
+Werribee,1
+South Yarra,2
+Craigieburn,1
+Point Cook,1
+Sunshine,1
+Glen Waverley,1
+Doncaster East,1
+Glen Iris,1
+Richmond,1
+Taylors Lakes,1
+Mulgrave,1
+Airport West,1
+Doncaster,1
+Narre Warren,1
+Wantirna South,1
+South Morang,1
+Geelong,2
+Waurn Ponds,1
+Ballarat,1
+Warrnambool,1
+Horsham,1
+Mildura,1
+Kialla,1
+Wendouree,1
+Traralgon,1
+Wodonga,1
