@@ -35,10 +35,12 @@ Group Member: Xuechun Cheng, Joel Antony, Yuchen Zhong, Mingqi Liu
   Description: This jupyternotebook details all preprocessing steps of the past dataset
   Output: 'pased_data_clean.csv' in ***data/curated*** file
 
-6.'6.Visualizations.ipynb'
+6.'6.Visualization.ipynb'
   Description: This notebook is used to run the model and conduct analysis on the curated data
   Output: Visualisation plot in data/plot file
 
 7.'7.Growth Rate.ipynb'
   Description: This notebook is used to run the model and predict the growth rate of each suburb.
+        **notice** 'POSTCODE_POLYGON.shp', 'POSTCODE_POLYGON.dbf', 'POSTCODE_POLYGON.shx' are downloaded from 'https://www.data.vic.gov.au/'
+                   'australian_postcodes.csv' is downloaded from 'https://github.com/Elkfox/Australian-Postcode-Data/blob/master/au_postcodes.csv'
   Output: Growth rate prediction, plot in ***plot*** file
