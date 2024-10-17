@@ -36,5 +36,5 @@ Group Member: Xuechun Cheng, Joel Antony, Yuchen Zhong, Mingqi Liu\
   **notice** 'POSTCODE_POLYGON.shp', 'POSTCODE_POLYGON.dbf', 'POSTCODE_POLYGON.shx' are downloaded from 'https://www.data.vic.gov.au/', 'australian_postcodes.csv' is downloaded from 'https://github.com/Elkfox/Australian-Postcode-Data/blob/master/au_postcodes.csv', which is on github.\
   **Output**: Growth rate prediction, plot in ***plot*** file
 
-8. 'Summary.ipynb'\
+8.'Summary.ipynb'\
    **Description**: This notebook provide a summary of the key points in our project. Includes code examples and a preview of the results，and the limitation & assumption we made during our working process.
