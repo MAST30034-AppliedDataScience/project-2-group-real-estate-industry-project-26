@@ -20,7 +20,7 @@ Group Member: Xuechun Cheng, Joel Antony, Yuchen Zhong, Mingqi Liu
 
 4.'4.Data Preprocessing.ipynb'     
   Description: This jupyternotebook details all preprocessing steps of the main dataset 'properties.csv' and other additional dataset, and then combined them into a single dataset. 
-  **notice** 'Crime.csv' and 'Criminal.numbers' is downloaded from 'https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data', since 'Criminal.csv' is too big and unable to uploaded it onto Github, therefore we upload it in 'Criminal.numbers' format, before using it you might need to transfer it into .csv form.
+  **notice** 'Crime.csv' and 'Criminal.numbers' is downloaded from 'https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data', since 'Criminal.csv' is too big and unable to uploaded it onto Github, therefore we upload it in 'Criminal.numbers' format, before using it you might need to transfer it into .csv form.\
   Output: 'LGA With Postcodes.csv', 'cleaned_hospital_health_services_addresses.csv', 'cleaned_park.csv', 'cleaned_properties.csv', 'cleaned_stations_and_suburbs.csv', 'cleaned_victoria_shopping_centres.csv',  'clean_data.csv', 'combined_data.csv', 'full_data.csv' in ***data/raw*** file 'final_data_full.csv', 'final_data_num.csv' in ***data/curated*** file
 
 5.'5.past_data_clean.ipynb'
