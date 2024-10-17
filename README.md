@@ -1,6 +1,6 @@
 ## MAST30034 Project 2 README.md
 # Generic Real Estate Consulting Project
-Group 26\
+## Group 26
 Group Member: Xuechun Cheng, Joel Antony, Yuchen Zhong, Mingqi Liu\
 *-------------------------------------------------------------------\
 **Research Goal:** The research goal is to discover the relationship between the price of rental properties and external and internal features, such as property type and living condition in the neighbourhood. Furthermore, discover the growth rate and livable level of each suburb.\
