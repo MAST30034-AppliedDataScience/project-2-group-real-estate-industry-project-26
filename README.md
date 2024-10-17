@@ -33,7 +33,7 @@ Group Member: Xuechun Cheng, Joel Antony, Yuchen Zhong, Mingqi Liu\
 
 7.'7.Growth Rate.ipynb'\
   **Description**: This notebook is used to run the model and predict the growth rate of each suburb.\
-  **notice** 'POSTCODE_POLYGON.shp', 'POSTCODE_POLYGON.dbf', 'POSTCODE_POLYGON.shx' are downloaded from 'https://www.data.vic.gov.au/', 'australian_postcodes.csv' is downloaded from 'https://github.com/Elkfox/Australian-Postcode-Data/blob/master/au_postcodes.csv'.\
+  **notice** 'POSTCODE_POLYGON.shp', 'POSTCODE_POLYGON.dbf', 'POSTCODE_POLYGON.shx' are downloaded from 'https://www.data.vic.gov.au/', 'australian_postcodes.csv' is downloaded from 'https://github.com/Elkfox/Australian-Postcode-Data/blob/master/au_postcodes.csv', which is on github.\
   **Output**: Growth rate prediction, plot in ***plot*** file
 
 8. 'Summary.ipynb'\
